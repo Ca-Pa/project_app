@@ -1,4 +1,4 @@
-<!-- DESCRIPTION
+DESCRIPTION
 
 Project is build on Laravel framework (on docker)
 
@@ -42,4 +42,3 @@ check env.example file before.
 There are created two controllers for routing data:
 ProjectController.php
 StudentController.php
- -->
